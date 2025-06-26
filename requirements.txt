@@ -1,0 +1,14 @@
+unicorn
+Flask
+numpy
+matplotlib
+pillow
+python-multipart
+tensorflow
+tensorflow-serving-api
+
+
+
+
+
+
