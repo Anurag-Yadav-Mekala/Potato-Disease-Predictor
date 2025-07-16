@@ -67,7 +67,7 @@ tensorflow
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/<your-username>/potato-disease-predictor-master.git
+   git clone https://github.com/Anurag-Yadav-Mekala/Potato-Disease-Predictor.git
    cd potato-disease-predictor-master
    ```
 
