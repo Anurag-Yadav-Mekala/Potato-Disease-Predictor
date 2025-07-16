@@ -1,4 +1,3 @@
-```markdown
 # Potato Disease Predictor
 
 A Flask web application for classifying potato leaf images into disease categories (Early Blight, Late Blight, or Healthy) using a pre-trained TensorFlow Keras model.
