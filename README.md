@@ -157,30 +157,6 @@ tensorflow
 
 ## Demo
 
-Place four screenshots in `screenshots/` with the **exact** filenames below:
-
-```
-screenshots/
-├── home.png      # the main upload page before submitting an image
-├── early.png     # after submitting an Early Blight leaf
-├── healthy.png   # after submitting a Healthy leaf
-└── late.png      # after submitting a Late Blight leaf
-```
-
-Your project tree should include:
-
-```
-potato-disease-predictor-master/
-├── screenshots/
-│   ├── home.png
-│   ├── early.png
-│   ├── healthy.png
-│   └── late.png
-└── ...           # rest of your files
-```
-
-Then use this markdown to display them:
-
 | Home Page                          | Early Blight Prediction                |
 | ---------------------------------- | -------------------------------------- |
 | ![Home Page](screenshots/home.png) | ![Early Blight](screenshots/early.png) |
